@@ -1,5 +1,11 @@
 # History
 
+
+## 2.6.0 (2019-03-21)
+
+  * AxisOption parameters should be optional.
+  * Additional documentation.
+  
 ## 2.5.1 (2019-03-22)
 
   * Fixing applyIfExists option for Dashboard variables.
